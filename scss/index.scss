@@ -207,6 +207,9 @@ input {
             outline: 2px solid $primary-blue-color;
         }
     }
+    &:nth-child(5) {
+        outline: none;
+    }
 }
 .error-msg {
     display: none;

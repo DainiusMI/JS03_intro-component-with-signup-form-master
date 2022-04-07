@@ -340,6 +340,10 @@ input:placeholder-shown:focus {
   outline: 2px solid #6055a5;
 }
 
+input:nth-child(5) {
+  outline: none;
+}
+
 .error-msg {
   display: none;
   font-size: .6rem;
